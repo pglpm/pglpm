@@ -4,6 +4,6 @@
 
 [*Foundations of data science and AI prototyping*](https://pglpm.github.io/ADA511)
 
-[*Inferno*: an R package for Bayesian nonparametric population inference](https://pglpm.github.io/inferno)
+[*Inferno*: Inference in R with Bayesian nonparametrics](https://pglpm.github.io/inferno)
 
 [ORCID](https://orcid.org/0000-0002-6070-0784)
